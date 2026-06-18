@@ -1,2 +1,4 @@
 pandas==3.0.0
 lxml==6.0.2
+requests==2.32.5        # HTTP requests
+beautifulsoup4==4.14.3  # Web scraping (HTML/XML)
