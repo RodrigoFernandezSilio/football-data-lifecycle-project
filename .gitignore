@@ -1,3 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Visual Studio Code
+.vscode/
+
 # Data
 /data/raw/
 /data/clean/
